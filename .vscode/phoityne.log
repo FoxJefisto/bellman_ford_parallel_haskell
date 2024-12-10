@@ -62,3 +62,9 @@
 2024-11-25 00:39:03.002269200000 [$pid(ThreadId 5)] ERROR APP - start debugging failed. user error (ExecResult not found.) : Left "user error (ExecResult not found.)"
 2024-11-25 00:49:00.613662500000 [$pid(ThreadId 5)] ERROR APP - user error (<getModule> loaded module can not find from path. <d:\VisualProjects\11sem\bellman_ford_parallel_haskell\app\Main.hs> [])
 2024-11-25 00:49:00.642663100000 [$pid(ThreadId 5)] ERROR APP - start debugging failed. user error (ExecResult not found.) : Left "user error (ExecResult not found.)"
+2024-12-01 17:25:39.205511200000 [$pid(ThreadId 5)] ERROR APP - start debugging failed. user error (ExecResult not found.) : Left "user error (ExecResult not found.)"
+2024-12-01 17:26:50.633435600000 [$pid(ThreadId 5)] ERROR APP - start debugging failed. user error (ExecResult not found.) : Left "user error (ExecResult not found.)"
+2024-12-01 17:28:14.029120800000 [$pid(ThreadId 5)] ERROR APP - start debugging failed. user error (ExecResult not found.) : Left "user error (ExecResult not found.)"
+2024-12-01 17:28:59.238326000000 [$pid(ThreadId 5)] ERROR APP - start debugging failed. user error (ExecResult not found.) : Left "user error (ExecResult not found.)"
+2024-12-01 17:29:26.058006900000 [$pid(ThreadId 5)] ERROR APP - start debugging failed. user error (ExecResult not found.) : Left "user error (ExecResult not found.)"
+2024-12-01 17:29:51.206734400000 [$pid(ThreadId 5)] ERROR APP - start debugging failed. user error (ExecResult not found.) : Left "user error (ExecResult not found.)"
